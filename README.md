@@ -1,3 +1,7 @@
-**Деши в Power BI** - Dashboard_employee_dynamics.pbix, Dashboard_of_economic_metrics(SH,MPH,DPH,Sub%Gmv,Efficiency,utilization).pbix, Dashboard_store_revenue.pbix
+**Деши в Power BI**: 
+1) Dashboard_employee_dynamics.pbix
+2) Dashboard_of_economic_metrics(SH,MPH,DPH,Sub%Gmv,Efficiency,utilization).pbix
+3) Dashboard_store_revenue.pbix
 
-**Деши в Tableau** - Data Science Job Salaries.twb
+**Деши в Tableau**:
+1) Data Science Job Salaries.twb - визуализация данных датасета "Data Science Job Salaries"  
